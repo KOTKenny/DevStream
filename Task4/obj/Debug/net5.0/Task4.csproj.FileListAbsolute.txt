@@ -1,0 +1,12 @@
+D:\Job\Desktop\DevStream\Task4\bin\Debug\net5.0\Task4.deps.json
+D:\Job\Desktop\DevStream\Task4\bin\Debug\net5.0\Task4.dll
+D:\Job\Desktop\DevStream\Task4\bin\Debug\net5.0\ref\Task4.dll
+D:\Job\Desktop\DevStream\Task4\bin\Debug\net5.0\Task4.pdb
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.csproj.AssemblyReference.cache
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.AssemblyInfoInputs.cache
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.AssemblyInfo.cs
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.csproj.CoreCompileInputs.cache
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.dll
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\ref\Task4.dll
+D:\Job\Desktop\DevStream\Task4\obj\Debug\net5.0\Task4.pdb

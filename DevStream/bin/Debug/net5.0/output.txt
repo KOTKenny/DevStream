@@ -1,0 +1,1 @@
+{"MaxSpeed":20,"WheelsCount":2,"Model":"Nanone","Color":1}{"MaxSpeed":90,"WheelsCount":6,"Model":"Neone","Color":2}{"MaxSpeed":150,"WheelsCount":4,"Model":"BMW","Color":0}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f7f71a8b-8790-4bba-9ff6-36fd7eede0e6": {
+      "ProjectGuid": "f7f71a8b-8790-4bba-9ff6-36fd7eede0e6",
+      "DisplayName": "DevStream",
+      "ColorIndex": 0
+    },
+    "ad740a16-5019-4e44-a49c-0443986a398c": {
+      "ProjectGuid": "ad740a16-5019-4e44-a49c-0443986a398c",
+      "DisplayName": "Task1",
+      "ColorIndex": 1
+    },
+    "847dbaa4-bbf4-450f-89b7-7e43e4edfd5d": {
+      "ProjectGuid": "847dbaa4-bbf4-450f-89b7-7e43e4edfd5d",
+      "DisplayName": "Task2",
+      "ColorIndex": 2
+    },
+    "5ee66f7a-fdff-45d7-aec5-ff139b709ad1": {
+      "ProjectGuid": "5ee66f7a-fdff-45d7-aec5-ff139b709ad1",
+      "DisplayName": "Task3",
+      "ColorIndex": 3
+    },
+    "828b5611-3d14-48e1-b7d0-6b1f2eb51a19": {
+      "ProjectGuid": "828b5611-3d14-48e1-b7d0-6b1f2eb51a19",
+      "DisplayName": "Task4",
+      "ColorIndex": 4
+    },
+    "6be5e274-45c7-4f24-93b9-949ed4213700": {
+      "ProjectGuid": "6be5e274-45c7-4f24-93b9-949ed4213700",
+      "DisplayName": "Testing",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}
